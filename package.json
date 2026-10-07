@@ -1,0 +1,15 @@
+{
+  "name": "socrata-open-data-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Any government data portal: CDC, HHS, NYC, Texas, and hundreds more. Python, Node.js and cURL clients for the Socrata Open Data API Scraper on Apify, pay per result.",
+  "main": "socrata_open_data_scraper.mjs",
+  "scripts": {
+    "start": "node socrata_open_data_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/socrata-open-data/"
+}
